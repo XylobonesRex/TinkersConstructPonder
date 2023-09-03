@@ -12,5 +12,5 @@ How to download/use:
    -  Ponder for KubeJS: https://www.curseforge.com/minecraft/mc-mods/ponder/files/4440509
 4. Make sure you have opened your instance with the mods installed
 5. Place the "tinkersPonder.js" file in .minecraft/kubejs/client_scripts
-6. Place the "ponder" folder in .minecraft/kubejs/assets/kubejs . If there already is a ponder folder, move the nbt files from the downloaded ponder folder and place them in .minecraft/kubejs/assets/kubejs/ponder .
+6. Place the "ponder" folder in .minecraft/kubejs/assets/kubejs . If there already is a ponder folder, move the nbt files from the downloaded "ponder" folder and place them in .minecraft/kubejs/assets/kubejs/ponder .
 7. Open Minecraft and it should work :)
